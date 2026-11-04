@@ -22,5 +22,16 @@ public class Main {
             i.printStackTrace();
             System.err.println("Errore input");
         }
+        DemoException DE = new DemoException();
+        try{
+            System.out.println(DE.somma(5,1));
+            System.out.println(DE.somma(1,2));
+            System.out.println(DE.somma(6,4));
+            System.out.println(DE.somma(10,2));
+            System.out.println(DE.prodotto(6));
+        }catch (Exception e){
+            System.out.println(e.getMessage());
+            System.err.println("Errore sulla somma");
+        }
     }
 }
