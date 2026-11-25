@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="38af6348-18da-4059-a9e4-d9223b894027" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/desktop.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ContatoreNonSincronizzato/Counter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ContatoreNonSincronizzato/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ContatoreNonSincronizzato/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ContatoreSincronizzato/Counter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../GestioneMonitor/src/Conta.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../GestioneMonitor/src/Contatore.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../GestioneMonitor/src/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../GiocaNumeriSicuro/.idea/GiocaNumeriSicuro.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../GiocaNumeriSicuro/Gestione.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../GiocaNumeriSicuro/Giocatore.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../GiocaNumeriSicuro/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Divisione/.idea/desktop.ini" beforeDir="false" afterPath="$PROJECT_DIR$/../../Divisione/.idea/desktop.ini" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Divisione/desktop.ini" beforeDir="false" afterPath="$PROJECT_DIR$/../../Divisione/desktop.ini" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Divisione/src/desktop.ini" beforeDir="false" afterPath="$PROJECT_DIR$/../../Divisione/src/desktop.ini" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GestioneEccezioni/.idea/desktop.ini" beforeDir="false" afterPath="$PROJECT_DIR$/../../GestioneEccezioni/.idea/desktop.ini" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GestioneEccezioni/.idea/modules/desktop.ini" beforeDir="false" afterPath="$PROJECT_DIR$/../../GestioneEccezioni/.idea/modules/desktop.ini" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GestioneEccezioni/desktop.ini" beforeDir="false" afterPath="$PROJECT_DIR$/../../GestioneEccezioni/desktop.ini" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GestioneEccezioni/gradle/desktop.ini" beforeDir="false" afterPath="$PROJECT_DIR$/../../GestioneEccezioni/gradle/desktop.ini" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GestioneEccezioni/gradle/wrapper/desktop.ini" beforeDir="false" afterPath="$PROJECT_DIR$/../../GestioneEccezioni/gradle/wrapper/desktop.ini" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GestioneEccezioni/src/desktop.ini" beforeDir="false" afterPath="$PROJECT_DIR$/../../GestioneEccezioni/src/desktop.ini" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GestioneEccezioni/src/main/desktop.ini" beforeDir="false" afterPath="$PROJECT_DIR$/../../GestioneEccezioni/src/main/desktop.ini" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GestioneEccezioni/src/main/java/desktop.ini" beforeDir="false" afterPath="$PROJECT_DIR$/../../GestioneEccezioni/src/main/java/desktop.ini" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GestioneEccezioni/src/main/java/org/desktop.ini" beforeDir="false" afterPath="$PROJECT_DIR$/../../GestioneEccezioni/src/main/java/org/desktop.ini" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GestioneEccezioni/src/main/java/org/example/desktop.ini" beforeDir="false" afterPath="$PROJECT_DIR$/../../GestioneEccezioni/src/main/java/org/example/desktop.ini" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GestioneEccezioni/src/main/resources/desktop.ini" beforeDir="false" afterPath="$PROJECT_DIR$/../../GestioneEccezioni/src/main/resources/desktop.ini" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GestioneEccezioni/src/test/desktop.ini" beforeDir="false" afterPath="$PROJECT_DIR$/../../GestioneEccezioni/src/test/desktop.ini" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GestioneEccezioni/src/test/java/desktop.ini" beforeDir="false" afterPath="$PROJECT_DIR$/../../GestioneEccezioni/src/test/java/desktop.ini" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GestioneEccezioni/src/test/resources/desktop.ini" beforeDir="false" afterPath="$PROJECT_DIR$/../../GestioneEccezioni/src/test/resources/desktop.ini" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GestioneEccezioni1/.idea/desktop.ini" beforeDir="false" afterPath="$PROJECT_DIR$/../../GestioneEccezioni1/.idea/desktop.ini" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GestioneEccezioni1/desktop.ini" beforeDir="false" afterPath="$PROJECT_DIR$/../../GestioneEccezioni1/desktop.ini" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GestioneEccezioni1/src/desktop.ini" beforeDir="false" afterPath="$PROJECT_DIR$/../../GestioneEccezioni1/src/desktop.ini" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GiocaNumeri/.idea/desktop.ini" beforeDir="false" afterPath="$PROJECT_DIR$/../../GiocaNumeri/.idea/desktop.ini" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GiocaNumeri/desktop.ini" beforeDir="false" afterPath="$PROJECT_DIR$/../../GiocaNumeri/desktop.ini" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GiocaNumeri/src/desktop.ini" beforeDir="false" afterPath="$PROJECT_DIR$/../../GiocaNumeri/src/desktop.ini" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../desktop.ini" beforeDir="false" afterPath="$PROJECT_DIR$/../../desktop.ini" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Crx08&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Crx08/TPSIT.git&quot;,
+    &quot;accountId&quot;: &quot;311e0704-b580-4e04-a60a-054a52621978&quot;
+  }
+}</component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.0" />
+      <entry key="S2" value="1.0000000228932893" />
+      <entry key="S5" value="1.00087878630047" />
+      <entry key="S10" value="1.0296443299886728" />
+      <entry key="S30" value="1.3096777724842976" />
+      <entry key="S60" value="1.6039970682977716" />
+      <entry key="M2" value="2.659938658338447" />
+      <entry key="M5" value="8.206941367135958" />
+      <entry key="M10" value="14.81200441553036" />
+      <entry key="M15" value="18.490676636909058" />
+      <entry key="M30" value="23.389436420109632" />
+      <entry key="H1" value="26.44194468556271" />
+      <entry key="H2" value="28.152040542094845" />
+      <entry key="H4" value="29.058004779666902" />
+      <entry key="D1" value="29.840428918866433" />
+      <entry key="W1" value="29.97714021403117" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="3.9797073429317873E-109" />
+      <entry key="S5" value="4.364559863328582E-44" />
+      <entry key="S10" value="2.0891529056841647E-22" />
+      <entry key="S30" value="5.9336702684797E-8" />
+      <entry key="S60" value="2.4359126151156764E-4" />
+      <entry key="M2" value="0.015607410467837623" />
+      <entry key="M5" value="0.18937922759925205" />
+      <entry key="M10" value="0.4351772369957463" />
+      <entry key="M15" value="0.5742629271308088" />
+      <entry key="M30" value="0.7578013770974615" />
+      <entry key="H1" value="0.8705178786776647" />
+      <entry key="H2" value="0.9330154761190537" />
+      <entry key="H4" value="0.9659272623334811" />
+      <entry key="D1" value="0.9942388684343355" />
+      <entry key="W1" value="0.999174941847898" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="4.545207575228408E-23" />
+      <entry key="MS500" value="3.400249178525795E-5" />
+      <entry key="S2" value="0.07636207841354843" />
+      <entry key="S5" value="0.35801681658743806" />
+      <entry key="S10" value="0.6227202936998147" />
+      <entry key="S30" value="1.1345800770650771" />
+      <entry key="S60" value="1.5054514689098846" />
+      <entry key="M2" value="2.6167043303157427" />
+      <entry key="M5" value="8.357327930566152" />
+      <entry key="M10" value="15.21882066394416" />
+      <entry key="M15" value="19.042783465185156" />
+      <entry key="M30" value="24.134014006249654" />
+      <entry key="H1" value="27.30518635379065" />
+      <entry key="H2" value="29.08123244834052" />
+      <entry key="H4" value="30.021971213633282" />
+      <entry key="D1" value="30.8343339307478" />
+      <entry key="W1" value="30.976267286163488" />
+    </decayedShown>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="3MVCLkxhZGQ94Y7Cf5Wayhqaga8" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Main.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "H:/Il mio Drive/Sonaglia_Cesare_TPSIT_5_Binf_a.s_2026 2027/Contatore/GestioneContatoreSyncronized/src/Main.java"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-a203e0a19954-intellij.indexing.shared.core-IU-262.10968.63" />
+        <option value="bundled-js-predefined-d6986cc7102b-4abd2a77f808-JavaScript-IU-262.10968.63" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="38af6348-18da-4059-a9e4-d9223b894027" name="Changes" comment="" />
+      <created>1795426296357</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1795426296357</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
